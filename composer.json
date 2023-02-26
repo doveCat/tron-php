@@ -17,9 +17,8 @@
         }
     ],
     "require": {
-        "php": ">=8.0",
-        "fenguoz/web3.php": "^1.0",
-        "fenguoz/tron-api": "~1.1",
+        "php": ">=7.2",
+        "iexbase/tron-api": "4.*",
         "ionux/phactor": "1.0.8",
         "kornrunner/keccak": "~1.0"
     },
